@@ -1,4 +1,4 @@
 dois.txt
 
-20250701 1808 Ter - 
+20250701 1808 Ter - e agora devolvendo...
 parei em 1:14:45
